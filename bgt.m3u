@@ -1,0 +1,9 @@
+# EXTM3U
+
+# EXTINF: -1, cine
+
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+
+# EXTINF: -1, fox sports
+
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
